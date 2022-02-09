@@ -38,10 +38,10 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 ## Conclusions
 - Out of all the borrowers, around 15% of the borrowers defaulted and 85% of the loans were fully paid.
 - We can observe that as we move from Grade A to Grade G, interest rate increases and so does the number of default loans. This suggestes that company gives higher interest       rates for borrowers with F and G grades.
-- Another thing to observe is that with increase in annual income, the chances of defaulting of loan decreases. 
-- In the city of California,New York and Florida, maximum dafaults are seen. 
-- With increase in Term of loan, chances of default also increases.
-- Loans taken for the purpose of Debt consolidation and credit card have more chances of default.
+- Another thing to observe is that with increase in annual income, the percentage of defaulting of loan decreases. 
+- In the city of California,New York and Florida, more loan dafaults are seen. 
+- With increase in Term of loan, percentage of loan default also increases.
+- Loans taken for the purpose of Debt consolidation and credit card have more occurences of default.
 - Increase in dti can be seen with increase in interest rate. We can infer that dti is positively correalted with charged off percentage.
 
 
